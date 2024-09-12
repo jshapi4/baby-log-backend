@@ -1,0 +1,9 @@
+#secrets
+app.yaml
+.env
+.gcloudignore
+
+# don't need in rep
+rest.rest
+node_modules
+public
